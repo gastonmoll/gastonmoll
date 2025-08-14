@@ -15,5 +15,5 @@
 - [Modelo de ventas SQL + Tableau] (link)
 
 ## 📫 Contacto
-[LinkedIn] https://www.linkedin.com/in/gaston-moll/
-[Email] gastonjmoll@gmail.com
+- [LinkedIn] https://www.linkedin.com/in/gaston-moll/
+- [Email] gastonjmoll@gmail.com
